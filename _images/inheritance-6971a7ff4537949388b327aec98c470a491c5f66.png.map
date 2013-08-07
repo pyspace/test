@@ -1,0 +1,21 @@
+<map id="inheritance88796da661" name="inheritance88796da661">
+<area shape="rect" id="node1" href="#pySPACE.tests.utils.data.test_data_generation.Combiner" title="Combiner" alt="" coords="54,65,116,79"/>
+<area shape="rect" id="node9" href="#pySPACE.tests.utils.data.test_data_generation.Multiplier" title="Multiplier" alt="" coords="-1,129,56,143"/>
+<area shape="rect" id="node33" href="#pySPACE.tests.utils.data.test_data_generation.Adder" title="Adder" alt="" coords="66,129,104,143"/>
+<area shape="rect" id="node2" href="#pySPACE.tests.utils.data.test_data_generation.DataGenerator" title="DataGenerator" alt="" coords="365,1,461,15"/>
+<area shape="rect" id="node4" href="#pySPACE.tests.utils.data.test_data_generation.Triangle" title="Triangle" alt="" coords="147,65,196,79"/>
+<area shape="rect" id="node7" href="#pySPACE.tests.utils.data.test_data_generation.Sine" title="Sine" alt="" coords="207,65,236,79"/>
+<area shape="rect" id="node11" href="#pySPACE.tests.utils.data.test_data_generation.GaussianNoise" title="GaussianNoise" alt="" coords="245,65,341,79"/>
+<area shape="rect" id="node13" href="#pySPACE.tests.utils.data.test_data_generation.One" title="One" alt="" coords="351,65,377,79"/>
+<area shape="rect" id="node15" href="#pySPACE.tests.utils.data.test_data_generation.Channel" title="Channel" alt="" coords="387,65,440,79"/>
+<area shape="rect" id="node17" href="#pySPACE.tests.utils.data.test_data_generation.Zero" title="Zero" alt="" coords="449,65,481,79"/>
+<area shape="rect" id="node21" href="#pySPACE.tests.utils.data.test_data_generation.Constant" title="Constant" alt="" coords="491,65,549,79"/>
+<area shape="rect" id="node23" href="#pySPACE.tests.utils.data.test_data_generation.Cosine" title="Cosine" alt="" coords="559,65,603,79"/>
+<area shape="rect" id="node28" href="#pySPACE.tests.utils.data.test_data_generation.TimePoint" title="TimePoint" alt="" coords="613,65,677,79"/>
+<area shape="rect" id="node35" href="#pySPACE.tests.utils.data.test_data_generation.Counter" title="Counter" alt="" coords="687,65,739,79"/>
+<area shape="rect" id="node6" href="#pySPACE.tests.utils.data.test_data_generation.Delta" title="Delta" alt="" coords="115,129,149,143"/>
+<area shape="rect" id="node31" href="#pySPACE.tests.utils.data.test_data_generation.ChannelDependentDelta" title="ChannelDependentDelta" alt="" coords="53,193,211,207"/>
+<area shape="rect" id="node19" href="#pySPACE.tests.utils.data.test_data_generation.ChannelDependentCosine" title="ChannelDependentCosine" alt="" coords="159,129,325,143"/>
+<area shape="rect" id="node26" href="#pySPACE.tests.utils.data.test_data_generation.ChannelDependentSine" title="ChannelDependentSine" alt="" coords="336,129,488,143"/>
+<area shape="rect" id="node30" href="#pySPACE.tests.utils.data.test_data_generation.TestTimeSeriesGenerator" title="TestTimeSeriesGenerator" alt="" coords="633,1,796,15"/>
+</map>

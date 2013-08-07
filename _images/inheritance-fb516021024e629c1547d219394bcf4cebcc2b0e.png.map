@@ -1,0 +1,9 @@
+<map id="inheritance96997b1030" name="inheritance96997b1030">
+<area shape="rect" id="node1" href="#pySPACE.missions.nodes.postprocessing.feature_normalization.GaussianFeatureNormalizationNode" title="GaussianFeatureNormalizationNode" alt="" coords="0,129,232,143"/>
+<area shape="rect" id="node2" href="#pySPACE.missions.nodes.postprocessing.feature_normalization.FeatureNormalizationNode" title="FeatureNormalizationNode" alt="" coords="275,65,448,79"/>
+<area shape="rect" id="node5" href="#pySPACE.missions.nodes.postprocessing.feature_normalization.HistogramFeatureNormalizationNode" title="HistogramFeatureNormalizationNode" alt="" coords="241,129,481,143"/>
+<area shape="rect" id="node7" href="#pySPACE.missions.nodes.postprocessing.feature_normalization.OutlierFeatureNormalizationNode" title="OutlierFeatureNormalizationNode" alt="" coords="491,129,705,143"/>
+<area shape="rect" id="node4" href="#pySPACE.missions.nodes.postprocessing.feature_normalization.InconsistentFeatureVectorsException" title="InconsistentFeatureVectorsException" alt="" coords="627,1,864,15"/>
+<area shape="rect" id="node9" href="pySPACE.missions.nodes.base_node.html#pySPACE.missions.nodes.base_node.BaseNode" title="BaseNode" alt="" coords="403,1,469,15"/>
+<area shape="rect" id="node11" href="#pySPACE.missions.nodes.postprocessing.feature_normalization.EuclideanFeatureNormalizationNode" title="EuclideanFeatureNormalizationNode" alt="" coords="458,65,691,79"/>
+</map>

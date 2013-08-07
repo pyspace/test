@@ -1,0 +1,11 @@
+<map id="inheritance268e9f33fc" name="inheritance268e9f33fc">
+<area shape="rect" id="node1" href="#pySPACE.tools.progressbar.ProgressBarWidget" title="ProgressBarWidget" alt="" coords="125,1,245,15"/>
+<area shape="rect" id="node2" href="#pySPACE.tools.progressbar.FileTransferSpeed" title="FileTransferSpeed" alt="" coords="-1,65,112,79"/>
+<area shape="rect" id="node7" href="#pySPACE.tools.progressbar.Percentage" title="Percentage" alt="" coords="122,65,195,79"/>
+<area shape="rect" id="node9" href="#pySPACE.tools.progressbar.RotatingMarker" title="RotatingMarker" alt="" coords="205,65,301,79"/>
+<area shape="rect" id="node12" href="#pySPACE.tools.progressbar.ETA" title="ETA" alt="" coords="312,65,336,79"/>
+<area shape="rect" id="node4" href="#pySPACE.tools.progressbar.Bar" title="Bar" alt="" coords="398,65,420,79"/>
+<area shape="rect" id="node14" href="#pySPACE.tools.progressbar.ReverseBar" title="ReverseBar" alt="" coords="373,129,445,143"/>
+<area shape="rect" id="node5" href="#pySPACE.tools.progressbar.ProgressBarWidgetHFill" title="ProgressBarWidgetHFill" alt="" coords="335,1,483,15"/>
+<area shape="rect" id="node11" href="#pySPACE.tools.progressbar.ProgressBar" title="ProgressBar" alt="" coords="701,1,779,15"/>
+</map>
