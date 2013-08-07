@@ -1,0 +1,45 @@
+# Python specific
+*.py[co]
+*.py~
+
+# Documentation etc.
+docs/.build
+docs/api/generated
+docs/api/tests
+docs/abri.inv
+docs/log
+
+# adappt
+adappt/build/doc
+adappt/build/src
+adappt/build/CMakeFiles/
+adappt/build/*.o
+adappt/build/*.dylib
+adappt/build/configuration
+
+# General
+*.tmp
+._*
+
+# old code
+abri_dp
+bor
+
+## IDE settings
+*.ipynb
+
+# Pydev
+.pydevproject
+.project
+.settings
+
+# PyCharm
+.idea
+
+#Mac specific
+.DS_Store
+
+#Cluster
+core.*
+docs/unittest_log.txt
+iterate.dat
